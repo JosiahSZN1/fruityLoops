@@ -1,0 +1,3 @@
+INDEX VERSION 1.131
+/Users/levijosiahmariano/Desktop/SoftwareDevelopment/CodingDojo/java/spring/intro/assignments/fruityLoops/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/2789772436.index
+/fruityloops/src/main/java
